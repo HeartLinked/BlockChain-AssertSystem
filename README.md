@@ -1,5 +1,6 @@
-# BlockChain_Go
+# BlockChainAssertSystem
 A simple backend blockchain project in go programing language.
+
 A part of Course Design of Software Engineering at Zhejiang University, 2022-2023, Group A4
 
 ### 技术栈
